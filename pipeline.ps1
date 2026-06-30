@@ -14,7 +14,8 @@ if ($LASTEXITCODE -ne 0) { Write-Host "ERRO" -ForegroundColor Red; exit 1 }
 
 Write-Host ""
 Write-Host "Clusterizando featnames..." -ForegroundColor Cyan
-python src/lemma_ego_network.py
+$env:GEMINI_API_KEY = "SUA_CHAVE_AQUI"
+python src/run_gemini_cluster.py --all-exports
 if ($LASTEXITCODE -ne 0) { Write-Host "ERRO" -ForegroundColor Red; exit 1 }
 
 Write-Host ""
