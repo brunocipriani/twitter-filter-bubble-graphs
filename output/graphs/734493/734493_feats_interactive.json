@@ -1,0 +1,313 @@
+{
+  "metadata": {
+    "ego_id": 734493,
+    "graph_type": "feats",
+    "node_count": 9,
+    "edge_count": 15,
+    "is_directed": false,
+    "clusters": [
+      {
+        "name": "E-commerce",
+        "color": "#1f77b4",
+        "node_count": 6
+      }
+    ],
+    "statistics": {
+      "current": {
+        "overall": {
+          "node_count": 9,
+          "mean_degree": 3.3333333333333335,
+          "median_degree": 5.0,
+          "density": 0.4166666666666667
+        },
+        "per_cluster": [
+          {
+            "name": "E-commerce",
+            "node_count": 6,
+            "internal_density": 1.0
+          }
+        ]
+      }
+    },
+    "advanced_statistics": null
+  },
+  "elements": {
+    "nodes": [
+      {
+        "data": {
+          "id": "101887892",
+          "label": "101887892",
+          "color": "#1f77b4",
+          "degree": 5,
+          "clusters": [
+            "E-commerce"
+          ],
+          "cluster_count": 1
+        },
+        "position": {
+          "x": 786.6479814897906,
+          "y": -179.36799517307495
+        }
+      },
+      {
+        "data": {
+          "id": "147422023",
+          "label": "147422023",
+          "color": "#1f77b4",
+          "degree": 5,
+          "clusters": [
+            "E-commerce"
+          ],
+          "cluster_count": 1
+        },
+        "position": {
+          "x": -900.0,
+          "y": -156.10166863937937
+        }
+      },
+      {
+        "data": {
+          "id": "15458304",
+          "label": "15458304",
+          "color": "#cccccc",
+          "degree": 0,
+          "clusters": [],
+          "cluster_count": 0
+        },
+        "position": {
+          "x": 239.76635000534992,
+          "y": -265.89545913941015
+        }
+      },
+      {
+        "data": {
+          "id": "1647621",
+          "label": "1647621",
+          "color": "#1f77b4",
+          "degree": 5,
+          "clusters": [
+            "E-commerce"
+          ],
+          "cluster_count": 1
+        },
+        "position": {
+          "x": -338.84683370903485,
+          "y": 254.25513788473714
+        }
+      },
+      {
+        "data": {
+          "id": "20557892",
+          "label": "20557892",
+          "color": "#cccccc",
+          "degree": 0,
+          "clusters": [],
+          "cluster_count": 0
+        },
+        "position": {
+          "x": -75.81456913949556,
+          "y": -466.8411994915401
+        }
+      },
+      {
+        "data": {
+          "id": "24259625",
+          "label": "24259625",
+          "color": "#cccccc",
+          "degree": 0,
+          "clusters": [],
+          "cluster_count": 0
+        },
+        "position": {
+          "x": -35.10393915234014,
+          "y": 494.23392329463246
+        }
+      },
+      {
+        "data": {
+          "id": "386255773",
+          "label": "386255773",
+          "color": "#1f77b4",
+          "degree": 5,
+          "clusters": [
+            "E-commerce"
+          ],
+          "cluster_count": 1
+        },
+        "position": {
+          "x": 120.21671979756195,
+          "y": 152.3490315223906
+        }
+      },
+      {
+        "data": {
+          "id": "66527200",
+          "label": "66527200",
+          "color": "#1f77b4",
+          "degree": 5,
+          "clusters": [
+            "E-commerce"
+          ],
+          "cluster_count": 1
+        },
+        "position": {
+          "x": -272.12504557754846,
+          "y": -141.89642330435072
+        }
+      },
+      {
+        "data": {
+          "id": "7696162",
+          "label": "7696162",
+          "color": "#1f77b4",
+          "degree": 5,
+          "clusters": [
+            "E-commerce"
+          ],
+          "cluster_count": 1
+        },
+        "position": {
+          "x": 475.2593362857166,
+          "y": 309.2646530459962
+        }
+      }
+    ],
+    "edges": [
+      {
+        "data": {
+          "id": "e0",
+          "source": "101887892",
+          "target": "147422023",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e1",
+          "source": "101887892",
+          "target": "1647621",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e2",
+          "source": "101887892",
+          "target": "386255773",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e3",
+          "source": "101887892",
+          "target": "66527200",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e4",
+          "source": "101887892",
+          "target": "7696162",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e5",
+          "source": "147422023",
+          "target": "1647621",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e6",
+          "source": "147422023",
+          "target": "386255773",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e7",
+          "source": "147422023",
+          "target": "66527200",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e8",
+          "source": "147422023",
+          "target": "7696162",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e9",
+          "source": "1647621",
+          "target": "386255773",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e10",
+          "source": "1647621",
+          "target": "66527200",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e11",
+          "source": "1647621",
+          "target": "7696162",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e12",
+          "source": "386255773",
+          "target": "66527200",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e13",
+          "source": "386255773",
+          "target": "7696162",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e14",
+          "source": "66527200",
+          "target": "7696162",
+          "weight": 0,
+          "color": "#888888"
+        }
+      }
+    ]
+  }
+}

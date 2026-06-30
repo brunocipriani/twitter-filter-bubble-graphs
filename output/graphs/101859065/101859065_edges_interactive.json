@@ -1,0 +1,2462 @@
+{
+  "metadata": {
+    "ego_id": 101859065,
+    "graph_type": "edges",
+    "node_count": 23,
+    "edge_count": 208,
+    "is_directed": true,
+    "clusters": [
+      {
+        "name": "Jogos/Franquias",
+        "color": "#1f77b4",
+        "node_count": 11
+      },
+      {
+        "name": "Termos de Gaming",
+        "color": "#ff7f0e",
+        "node_count": 14
+      },
+      {
+        "name": "Personalidades/Criadores de Conteúdo",
+        "color": "#98df8a",
+        "node_count": 22
+      },
+      {
+        "name": "Mídia/Canais de Conteúdo Gaming",
+        "color": "#9467bd",
+        "node_count": 13
+      },
+      {
+        "name": "Empresas/Plataformas de Tecnologia",
+        "color": "#c49c94",
+        "node_count": 9
+      },
+      {
+        "name": "Eventos de Gaming",
+        "color": "#7f7f7f",
+        "node_count": 2
+      },
+      {
+        "name": "Filmes/Séries",
+        "color": "#dbdb8d",
+        "node_count": 2
+      },
+      {
+        "name": "Organizações/Equipes de Esports",
+        "color": "#9edae5",
+        "node_count": 2
+      }
+    ],
+    "statistics": {
+      "current": {
+        "overall": {
+          "node_count": 23,
+          "mean_degree": 18.08695652173913,
+          "median_degree": 15.0,
+          "density": 0.41106719367588934
+        },
+        "per_cluster": [
+          {
+            "name": "Empresas/Plataformas de Tecnologia",
+            "node_count": 9,
+            "internal_density": 0.4305555555555556
+          },
+          {
+            "name": "Eventos de Gaming",
+            "node_count": 2,
+            "internal_density": 0.0
+          },
+          {
+            "name": "Filmes/Séries",
+            "node_count": 2,
+            "internal_density": 1.0
+          },
+          {
+            "name": "Jogos/Franquias",
+            "node_count": 11,
+            "internal_density": 0.5272727272727272
+          },
+          {
+            "name": "Mídia/Canais de Conteúdo Gaming",
+            "node_count": 13,
+            "internal_density": 0.5
+          },
+          {
+            "name": "Organizações/Equipes de Esports",
+            "node_count": 2,
+            "internal_density": 1.0
+          },
+          {
+            "name": "Personalidades/Criadores de Conteúdo",
+            "node_count": 22,
+            "internal_density": 0.42857142857142855
+          },
+          {
+            "name": "Termos de Gaming",
+            "node_count": 14,
+            "internal_density": 0.43956043956043955
+          }
+        ]
+      }
+    },
+    "advanced_statistics": {
+      "ego_id": 101859065,
+      "nos": 23,
+      "arestas": 208,
+      "clusters": 8,
+      "densidade_global": 0.411067,
+      "seguir_mesmo_cluster": 0.208502,
+      "seguir_outro_cluster": 0.0,
+      "razao_seguimento": "inf",
+      "modularidade": 0.1597,
+      "embeddedness_medio": 0.9852,
+      "fracao_arestas_intra": 0.9904,
+      "media_permutacao": 0.966,
+      "p_valor_aprox": 0.0433
+    }
+  },
+  "elements": {
+    "nodes": [
+      {
+        "data": {
+          "id": "101903164",
+          "label": "101903164",
+          "color": "#95a49f",
+          "degree": 12,
+          "clusters": [
+            "Jogos/Franquias",
+            "Personalidades/Criadores de Conteúdo",
+            "Mídia/Canais de Conteúdo Gaming",
+            "Empresas/Plataformas de Tecnologia",
+            "Filmes/Séries"
+          ],
+          "cluster_count": 5,
+          "in_degree": 8,
+          "out_degree": 4
+        },
+        "position": {
+          "x": -259.8819833151694,
+          "y": 761.8906960620926
+        }
+      },
+      {
+        "data": {
+          "id": "104155395",
+          "label": "104155395",
+          "color": "#aebe8f",
+          "degree": 18,
+          "clusters": [
+            "Personalidades/Criadores de Conteúdo",
+            "Empresas/Plataformas de Tecnologia"
+          ],
+          "cluster_count": 2,
+          "in_degree": 5,
+          "out_degree": 13
+        },
+        "position": {
+          "x": 421.3238348794116,
+          "y": -310.3800414421233
+        }
+      },
+      {
+        "data": {
+          "id": "111164068",
+          "label": "111164068",
+          "color": "#9c9286",
+          "degree": 37,
+          "clusters": [
+            "Jogos/Franquias",
+            "Termos de Gaming",
+            "Personalidades/Criadores de Conteúdo",
+            "Mídia/Canais de Conteúdo Gaming",
+            "Empresas/Plataformas de Tecnologia"
+          ],
+          "cluster_count": 5,
+          "in_degree": 16,
+          "out_degree": 21
+        },
+        "position": {
+          "x": 66.90294679474746,
+          "y": -18.791463240981724
+        }
+      },
+      {
+        "data": {
+          "id": "118811608",
+          "label": "118811608",
+          "color": "#96a3a3",
+          "degree": 15,
+          "clusters": [
+            "Personalidades/Criadores de Conteúdo",
+            "Mídia/Canais de Conteúdo Gaming"
+          ],
+          "cluster_count": 2,
+          "in_degree": 6,
+          "out_degree": 9
+        },
+        "position": {
+          "x": -21.2222754882147,
+          "y": 510.18016238830415
+        }
+      },
+      {
+        "data": {
+          "id": "131601987",
+          "label": "131601987",
+          "color": "#96a3a3",
+          "degree": 32,
+          "clusters": [
+            "Personalidades/Criadores de Conteúdo",
+            "Mídia/Canais de Conteúdo Gaming"
+          ],
+          "cluster_count": 2,
+          "in_degree": 17,
+          "out_degree": 15
+        },
+        "position": {
+          "x": 43.99554420614597,
+          "y": -242.9691531383135
+        }
+      },
+      {
+        "data": {
+          "id": "146556805",
+          "label": "146556805",
+          "color": "#95ac8c",
+          "degree": 14,
+          "clusters": [
+            "Jogos/Franquias",
+            "Termos de Gaming",
+            "Personalidades/Criadores de Conteúdo",
+            "Organizações/Equipes de Esports"
+          ],
+          "cluster_count": 4,
+          "in_degree": 7,
+          "out_degree": 7
+        },
+        "position": {
+          "x": 91.94130913258985,
+          "y": -629.0105419949982
+        }
+      },
+      {
+        "data": {
+          "id": "14683518",
+          "label": "14683518",
+          "color": "#c9a964",
+          "degree": 13,
+          "clusters": [
+            "Termos de Gaming",
+            "Personalidades/Criadores de Conteúdo",
+            "Empresas/Plataformas de Tecnologia"
+          ],
+          "cluster_count": 3,
+          "in_degree": 5,
+          "out_degree": 8
+        },
+        "position": {
+          "x": -560.588757810233,
+          "y": 148.5423249169864
+        }
+      },
+      {
+        "data": {
+          "id": "159629146",
+          "label": "159629146",
+          "color": "#929c6f",
+          "degree": 23,
+          "clusters": [
+            "Jogos/Franquias",
+            "Termos de Gaming",
+            "Personalidades/Criadores de Conteúdo"
+          ],
+          "cluster_count": 3,
+          "in_degree": 7,
+          "out_degree": 16
+        },
+        "position": {
+          "x": -223.68794603009513,
+          "y": 299.42366078259386
+        }
+      },
+      {
+        "data": {
+          "id": "15999863",
+          "label": "15999863",
+          "color": "#b99772",
+          "degree": 15,
+          "clusters": [
+            "Termos de Gaming",
+            "Personalidades/Criadores de Conteúdo",
+            "Mídia/Canais de Conteúdo Gaming"
+          ],
+          "cluster_count": 3,
+          "in_degree": 7,
+          "out_degree": 8
+        },
+        "position": {
+          "x": 309.0228332957127,
+          "y": 443.65056282774765
+        }
+      },
+      {
+        "data": {
+          "id": "17037417",
+          "label": "17037417",
+          "color": "#6e94a9",
+          "degree": 12,
+          "clusters": [
+            "Jogos/Franquias",
+            "Personalidades/Criadores de Conteúdo",
+            "Mídia/Canais de Conteúdo Gaming"
+          ],
+          "cluster_count": 3,
+          "in_degree": 6,
+          "out_degree": 6
+        },
+        "position": {
+          "x": -547.7163189019216,
+          "y": -186.8538653460704
+        }
+      },
+      {
+        "data": {
+          "id": "176872879",
+          "label": "176872879",
+          "color": "#988e85",
+          "degree": 12,
+          "clusters": [
+            "Jogos/Franquias",
+            "Termos de Gaming",
+            "Personalidades/Criadores de Conteúdo",
+            "Mídia/Canais de Conteúdo Gaming",
+            "Empresas/Plataformas de Tecnologia",
+            "Eventos de Gaming"
+          ],
+          "cluster_count": 6,
+          "in_degree": 8,
+          "out_degree": 4
+        },
+        "position": {
+          "x": -473.9218980050563,
+          "y": 632.6185723110998
+        }
+      },
+      {
+        "data": {
+          "id": "191620115",
+          "label": "191620115",
+          "color": "#938f82",
+          "degree": 21,
+          "clusters": [
+            "Jogos/Franquias",
+            "Termos de Gaming",
+            "Personalidades/Criadores de Conteúdo",
+            "Mídia/Canais de Conteúdo Gaming"
+          ],
+          "cluster_count": 4,
+          "in_degree": 11,
+          "out_degree": 10
+        },
+        "position": {
+          "x": 255.26362202007306,
+          "y": 84.64167072904318
+        }
+      },
+      {
+        "data": {
+          "id": "22784458",
+          "label": "22784458",
+          "color": "#938f82",
+          "degree": 30,
+          "clusters": [
+            "Jogos/Franquias",
+            "Termos de Gaming",
+            "Personalidades/Criadores de Conteúdo",
+            "Mídia/Canais de Conteúdo Gaming"
+          ],
+          "cluster_count": 4,
+          "in_degree": 16,
+          "out_degree": 14
+        },
+        "position": {
+          "x": -101.58897361344488,
+          "y": -300.8894575652043
+        }
+      },
+      {
+        "data": {
+          "id": "236575672",
+          "label": "236575672",
+          "color": "#ff7f0e",
+          "degree": 10,
+          "clusters": [
+            "Termos de Gaming"
+          ],
+          "cluster_count": 1,
+          "in_degree": 5,
+          "out_degree": 5
+        },
+        "position": {
+          "x": 565.8548098501836,
+          "y": 191.474414943409
+        }
+      },
+      {
+        "data": {
+          "id": "28149277",
+          "label": "28149277",
+          "color": "#b0937b",
+          "degree": 17,
+          "clusters": [
+            "Termos de Gaming",
+            "Personalidades/Criadores de Conteúdo",
+            "Mídia/Canais de Conteúdo Gaming",
+            "Empresas/Plataformas de Tecnologia",
+            "Eventos de Gaming"
+          ],
+          "cluster_count": 5,
+          "in_degree": 17,
+          "out_degree": 0
+        },
+        "position": {
+          "x": 246.26003704602283,
+          "y": -130.08100314835434
+        }
+      },
+      {
+        "data": {
+          "id": "29514951",
+          "label": "29514951",
+          "color": "#a79e87",
+          "degree": 30,
+          "clusters": [
+            "Jogos/Franquias",
+            "Termos de Gaming",
+            "Personalidades/Criadores de Conteúdo",
+            "Mídia/Canais de Conteúdo Gaming",
+            "Empresas/Plataformas de Tecnologia",
+            "Filmes/Séries"
+          ],
+          "cluster_count": 6,
+          "in_degree": 15,
+          "out_degree": 15
+        },
+        "position": {
+          "x": -78.26732780507204,
+          "y": 213.4903707045284
+        }
+      },
+      {
+        "data": {
+          "id": "34805698",
+          "label": "34805698",
+          "color": "#938f82",
+          "degree": 9,
+          "clusters": [
+            "Jogos/Franquias",
+            "Termos de Gaming",
+            "Personalidades/Criadores de Conteúdo",
+            "Mídia/Canais de Conteúdo Gaming"
+          ],
+          "cluster_count": 4,
+          "in_degree": 5,
+          "out_degree": 4
+        },
+        "position": {
+          "x": -56.55340383450121,
+          "y": 900.0
+        }
+      },
+      {
+        "data": {
+          "id": "51477206",
+          "label": "51477206",
+          "color": "#ccaf4c",
+          "degree": 12,
+          "clusters": [
+            "Termos de Gaming",
+            "Personalidades/Criadores de Conteúdo"
+          ],
+          "cluster_count": 2,
+          "in_degree": 5,
+          "out_degree": 7
+        },
+        "position": {
+          "x": -217.25854971565343,
+          "y": -605.4433838604854
+        }
+      },
+      {
+        "data": {
+          "id": "82030021",
+          "label": "82030021",
+          "color": "#aebe8f",
+          "degree": 20,
+          "clusters": [
+            "Personalidades/Criadores de Conteúdo",
+            "Empresas/Plataformas de Tecnologia"
+          ],
+          "cluster_count": 2,
+          "in_degree": 13,
+          "out_degree": 7
+        },
+        "position": {
+          "x": -69.51611247529456,
+          "y": -91.54750695683862
+        }
+      },
+      {
+        "data": {
+          "id": "90722891",
+          "label": "90722891",
+          "color": "#938f82",
+          "degree": 15,
+          "clusters": [
+            "Jogos/Franquias",
+            "Termos de Gaming",
+            "Personalidades/Criadores de Conteúdo",
+            "Mídia/Canais de Conteúdo Gaming"
+          ],
+          "cluster_count": 4,
+          "in_degree": 7,
+          "out_degree": 8
+        },
+        "position": {
+          "x": -319.86212281947616,
+          "y": 136.5060751479518
+        }
+      },
+      {
+        "data": {
+          "id": "90779436",
+          "label": "90779436",
+          "color": "#9bdcb8",
+          "degree": 16,
+          "clusters": [
+            "Personalidades/Criadores de Conteúdo",
+            "Organizações/Equipes de Esports"
+          ],
+          "cluster_count": 2,
+          "in_degree": 7,
+          "out_degree": 9
+        },
+        "position": {
+          "x": 452.95949333951245,
+          "y": -569.5067116597138
+        }
+      },
+      {
+        "data": {
+          "id": "94918917",
+          "label": "94918917",
+          "color": "#aebe8f",
+          "degree": 11,
+          "clusters": [
+            "Personalidades/Criadores de Conteúdo",
+            "Empresas/Plataformas de Tecnologia"
+          ],
+          "cluster_count": 2,
+          "in_degree": 6,
+          "out_degree": 5
+        },
+        "position": {
+          "x": 289.4799117135615,
+          "y": -820.908767980402
+        }
+      },
+      {
+        "data": {
+          "id": "95980722",
+          "label": "95980722",
+          "color": "#98df8a",
+          "degree": 22,
+          "clusters": [
+            "Personalidades/Criadores de Conteúdo"
+          ],
+          "cluster_count": 1,
+          "in_degree": 9,
+          "out_degree": 13
+        },
+        "position": {
+          "x": 187.06132753616987,
+          "y": -416.03661448027043
+        }
+      }
+    ],
+    "edges": [
+      {
+        "data": {
+          "id": "e0",
+          "source": "101903164",
+          "target": "14683518",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e1",
+          "source": "101903164",
+          "target": "15999863",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e2",
+          "source": "101903164",
+          "target": "176872879",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e3",
+          "source": "101903164",
+          "target": "29514951",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e4",
+          "source": "104155395",
+          "target": "111164068",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e5",
+          "source": "104155395",
+          "target": "15999863",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e6",
+          "source": "104155395",
+          "target": "146556805",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e7",
+          "source": "104155395",
+          "target": "95980722",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e8",
+          "source": "104155395",
+          "target": "90779436",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e9",
+          "source": "104155395",
+          "target": "191620115",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e10",
+          "source": "104155395",
+          "target": "82030021",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e11",
+          "source": "104155395",
+          "target": "28149277",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e12",
+          "source": "104155395",
+          "target": "131601987",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e13",
+          "source": "104155395",
+          "target": "22784458",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e14",
+          "source": "104155395",
+          "target": "90722891",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e15",
+          "source": "104155395",
+          "target": "94918917",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e16",
+          "source": "104155395",
+          "target": "51477206",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e17",
+          "source": "111164068",
+          "target": "29514951",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e18",
+          "source": "111164068",
+          "target": "17037417",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e19",
+          "source": "111164068",
+          "target": "34805698",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e20",
+          "source": "111164068",
+          "target": "94918917",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e21",
+          "source": "111164068",
+          "target": "90722891",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e22",
+          "source": "111164068",
+          "target": "101903164",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e23",
+          "source": "111164068",
+          "target": "104155395",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e24",
+          "source": "111164068",
+          "target": "159629146",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e25",
+          "source": "111164068",
+          "target": "90779436",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e26",
+          "source": "111164068",
+          "target": "191620115",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e27",
+          "source": "111164068",
+          "target": "15999863",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e28",
+          "source": "111164068",
+          "target": "236575672",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e29",
+          "source": "111164068",
+          "target": "146556805",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e30",
+          "source": "111164068",
+          "target": "95980722",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e31",
+          "source": "111164068",
+          "target": "51477206",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e32",
+          "source": "111164068",
+          "target": "22784458",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e33",
+          "source": "111164068",
+          "target": "131601987",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e34",
+          "source": "111164068",
+          "target": "176872879",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e35",
+          "source": "111164068",
+          "target": "28149277",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e36",
+          "source": "111164068",
+          "target": "82030021",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e37",
+          "source": "111164068",
+          "target": "118811608",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e38",
+          "source": "118811608",
+          "target": "95980722",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e39",
+          "source": "118811608",
+          "target": "82030021",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e40",
+          "source": "118811608",
+          "target": "22784458",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e41",
+          "source": "118811608",
+          "target": "90722891",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e42",
+          "source": "118811608",
+          "target": "34805698",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e43",
+          "source": "118811608",
+          "target": "176872879",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e44",
+          "source": "118811608",
+          "target": "29514951",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e45",
+          "source": "118811608",
+          "target": "101903164",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e46",
+          "source": "118811608",
+          "target": "131601987",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e47",
+          "source": "131601987",
+          "target": "90779436",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e48",
+          "source": "131601987",
+          "target": "191620115",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e49",
+          "source": "131601987",
+          "target": "28149277",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e50",
+          "source": "131601987",
+          "target": "94918917",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e51",
+          "source": "131601987",
+          "target": "95980722",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e52",
+          "source": "131601987",
+          "target": "51477206",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e53",
+          "source": "131601987",
+          "target": "29514951",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e54",
+          "source": "131601987",
+          "target": "17037417",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e55",
+          "source": "131601987",
+          "target": "146556805",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e56",
+          "source": "131601987",
+          "target": "111164068",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e57",
+          "source": "131601987",
+          "target": "159629146",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e58",
+          "source": "131601987",
+          "target": "104155395",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e59",
+          "source": "131601987",
+          "target": "82030021",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e60",
+          "source": "131601987",
+          "target": "90722891",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e61",
+          "source": "131601987",
+          "target": "22784458",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e62",
+          "source": "146556805",
+          "target": "131601987",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e63",
+          "source": "146556805",
+          "target": "90779436",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e64",
+          "source": "146556805",
+          "target": "28149277",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e65",
+          "source": "146556805",
+          "target": "82030021",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e66",
+          "source": "146556805",
+          "target": "22784458",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e67",
+          "source": "146556805",
+          "target": "29514951",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e68",
+          "source": "146556805",
+          "target": "111164068",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e69",
+          "source": "14683518",
+          "target": "131601987",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e70",
+          "source": "14683518",
+          "target": "17037417",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e71",
+          "source": "14683518",
+          "target": "82030021",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e72",
+          "source": "14683518",
+          "target": "191620115",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e73",
+          "source": "14683518",
+          "target": "111164068",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e74",
+          "source": "14683518",
+          "target": "22784458",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e75",
+          "source": "14683518",
+          "target": "28149277",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e76",
+          "source": "14683518",
+          "target": "159629146",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e77",
+          "source": "159629146",
+          "target": "90722891",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e78",
+          "source": "159629146",
+          "target": "22784458",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e79",
+          "source": "159629146",
+          "target": "131601987",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e80",
+          "source": "159629146",
+          "target": "236575672",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e81",
+          "source": "159629146",
+          "target": "14683518",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e82",
+          "source": "159629146",
+          "target": "29514951",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e83",
+          "source": "159629146",
+          "target": "17037417",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e84",
+          "source": "159629146",
+          "target": "15999863",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e85",
+          "source": "159629146",
+          "target": "176872879",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e86",
+          "source": "159629146",
+          "target": "118811608",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e87",
+          "source": "159629146",
+          "target": "28149277",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e88",
+          "source": "159629146",
+          "target": "101903164",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e89",
+          "source": "159629146",
+          "target": "82030021",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e90",
+          "source": "159629146",
+          "target": "111164068",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e91",
+          "source": "159629146",
+          "target": "34805698",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e92",
+          "source": "159629146",
+          "target": "191620115",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e93",
+          "source": "15999863",
+          "target": "111164068",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e94",
+          "source": "15999863",
+          "target": "236575672",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e95",
+          "source": "15999863",
+          "target": "131601987",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e96",
+          "source": "15999863",
+          "target": "118811608",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e97",
+          "source": "15999863",
+          "target": "29514951",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e98",
+          "source": "15999863",
+          "target": "28149277",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e99",
+          "source": "15999863",
+          "target": "191620115",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e100",
+          "source": "15999863",
+          "target": "101903164",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e101",
+          "source": "17037417",
+          "target": "28149277",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e102",
+          "source": "17037417",
+          "target": "29514951",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e103",
+          "source": "17037417",
+          "target": "22784458",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e104",
+          "source": "17037417",
+          "target": "131601987",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e105",
+          "source": "17037417",
+          "target": "159629146",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e106",
+          "source": "17037417",
+          "target": "14683518",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e107",
+          "source": "176872879",
+          "target": "101903164",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e108",
+          "source": "176872879",
+          "target": "14683518",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e109",
+          "source": "176872879",
+          "target": "29514951",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e110",
+          "source": "176872879",
+          "target": "118811608",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e111",
+          "source": "191620115",
+          "target": "15999863",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e112",
+          "source": "191620115",
+          "target": "111164068",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e113",
+          "source": "191620115",
+          "target": "146556805",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e114",
+          "source": "191620115",
+          "target": "176872879",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e115",
+          "source": "191620115",
+          "target": "82030021",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e116",
+          "source": "191620115",
+          "target": "28149277",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e117",
+          "source": "191620115",
+          "target": "22784458",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e118",
+          "source": "191620115",
+          "target": "95980722",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e119",
+          "source": "191620115",
+          "target": "236575672",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e120",
+          "source": "191620115",
+          "target": "131601987",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e121",
+          "source": "22784458",
+          "target": "90722891",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e122",
+          "source": "22784458",
+          "target": "28149277",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e123",
+          "source": "22784458",
+          "target": "159629146",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e124",
+          "source": "22784458",
+          "target": "111164068",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e125",
+          "source": "22784458",
+          "target": "90779436",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e126",
+          "source": "22784458",
+          "target": "146556805",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e127",
+          "source": "22784458",
+          "target": "95980722",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e128",
+          "source": "22784458",
+          "target": "104155395",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e129",
+          "source": "22784458",
+          "target": "131601987",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e130",
+          "source": "22784458",
+          "target": "17037417",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e131",
+          "source": "22784458",
+          "target": "191620115",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e132",
+          "source": "22784458",
+          "target": "51477206",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e133",
+          "source": "22784458",
+          "target": "29514951",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e134",
+          "source": "22784458",
+          "target": "94918917",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e135",
+          "source": "236575672",
+          "target": "82030021",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e136",
+          "source": "236575672",
+          "target": "28149277",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e137",
+          "source": "236575672",
+          "target": "111164068",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e138",
+          "source": "236575672",
+          "target": "131601987",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e139",
+          "source": "236575672",
+          "target": "22784458",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e140",
+          "source": "29514951",
+          "target": "17037417",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e141",
+          "source": "29514951",
+          "target": "14683518",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e142",
+          "source": "29514951",
+          "target": "176872879",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e143",
+          "source": "29514951",
+          "target": "131601987",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e144",
+          "source": "29514951",
+          "target": "191620115",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e145",
+          "source": "29514951",
+          "target": "15999863",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e146",
+          "source": "29514951",
+          "target": "34805698",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e147",
+          "source": "29514951",
+          "target": "111164068",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e148",
+          "source": "29514951",
+          "target": "118811608",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e149",
+          "source": "29514951",
+          "target": "236575672",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e150",
+          "source": "29514951",
+          "target": "101903164",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e151",
+          "source": "29514951",
+          "target": "22784458",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e152",
+          "source": "29514951",
+          "target": "28149277",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e153",
+          "source": "29514951",
+          "target": "159629146",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e154",
+          "source": "29514951",
+          "target": "82030021",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e155",
+          "source": "34805698",
+          "target": "118811608",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e156",
+          "source": "34805698",
+          "target": "29514951",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e157",
+          "source": "34805698",
+          "target": "101903164",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e158",
+          "source": "34805698",
+          "target": "176872879",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e159",
+          "source": "51477206",
+          "target": "29514951",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e160",
+          "source": "51477206",
+          "target": "82030021",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e161",
+          "source": "51477206",
+          "target": "95980722",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e162",
+          "source": "51477206",
+          "target": "22784458",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e163",
+          "source": "51477206",
+          "target": "111164068",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e164",
+          "source": "51477206",
+          "target": "28149277",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e165",
+          "source": "51477206",
+          "target": "131601987",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e166",
+          "source": "82030021",
+          "target": "131601987",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e167",
+          "source": "82030021",
+          "target": "28149277",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e168",
+          "source": "82030021",
+          "target": "29514951",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e169",
+          "source": "82030021",
+          "target": "104155395",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e170",
+          "source": "82030021",
+          "target": "15999863",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e171",
+          "source": "82030021",
+          "target": "191620115",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e172",
+          "source": "82030021",
+          "target": "111164068",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e173",
+          "source": "90722891",
+          "target": "28149277",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e174",
+          "source": "90722891",
+          "target": "159629146",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e175",
+          "source": "90722891",
+          "target": "176872879",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e176",
+          "source": "90722891",
+          "target": "111164068",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e177",
+          "source": "90722891",
+          "target": "22784458",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e178",
+          "source": "90722891",
+          "target": "29514951",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e179",
+          "source": "90722891",
+          "target": "34805698",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e180",
+          "source": "90722891",
+          "target": "101903164",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e181",
+          "source": "90779436",
+          "target": "95980722",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e182",
+          "source": "90779436",
+          "target": "94918917",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e183",
+          "source": "90779436",
+          "target": "22784458",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e184",
+          "source": "90779436",
+          "target": "111164068",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e185",
+          "source": "90779436",
+          "target": "146556805",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e186",
+          "source": "90779436",
+          "target": "28149277",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e187",
+          "source": "90779436",
+          "target": "82030021",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e188",
+          "source": "90779436",
+          "target": "131601987",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e189",
+          "source": "90779436",
+          "target": "191620115",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e190",
+          "source": "94918917",
+          "target": "131601987",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e191",
+          "source": "94918917",
+          "target": "22784458",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e192",
+          "source": "94918917",
+          "target": "111164068",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e193",
+          "source": "94918917",
+          "target": "90779436",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e194",
+          "source": "94918917",
+          "target": "95980722",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e195",
+          "source": "95980722",
+          "target": "82030021",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e196",
+          "source": "95980722",
+          "target": "28149277",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e197",
+          "source": "95980722",
+          "target": "131601987",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e198",
+          "source": "95980722",
+          "target": "22784458",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e199",
+          "source": "95980722",
+          "target": "191620115",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e200",
+          "source": "95980722",
+          "target": "90779436",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e201",
+          "source": "95980722",
+          "target": "90722891",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e202",
+          "source": "95980722",
+          "target": "51477206",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e203",
+          "source": "95980722",
+          "target": "94918917",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e204",
+          "source": "95980722",
+          "target": "146556805",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e205",
+          "source": "95980722",
+          "target": "104155395",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e206",
+          "source": "95980722",
+          "target": "29514951",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e207",
+          "source": "95980722",
+          "target": "111164068",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+﻿:root {
+  --bg: #f0f4f2;
+  --ink: #152018;
+  --border: #c8d5d0;
+  --accent: #146356;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  height: 100%;
+  font-family: "Space Grotesk", sans-serif;
+  color: var(--ink);
+  background: var(--bg);
+}
+
+.app {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 10px 500px;
+  grid-template-rows: auto 1fr;
+  height: 100%;
+  gap: 12px 0;
+  padding: 14px;
+}
+
+.toolbar {
+  grid-column: 1 / -1;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 12px;
+  background: #fff;
+  border: 1px solid var(--border);
+}
+
+.toolbar h1 { margin: 0 14px 0 0; font-size: 17px; font-weight: 700; }
+.toolbar label { font-size: 12px; font-weight: 600; opacity: 0.6; }
+
+.toolbar input, .toolbar select, .toolbar button {
+  border: 1px solid var(--border);
+  padding: 6px 10px;
+  font-family: inherit;
+  font-size: 14px;
+  color: var(--ink);
+  background: #fff;
+}
+
+.toolbar button { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 700; cursor: pointer; }
+.toolbar button:hover { opacity: 0.85; }
+.toolbar #egoId { width: 16ch; }
+
+.status { margin-left: auto; font-size: 13px; }
+.status.status-rich { display: flex; align-items: center; gap: 8px; }
+.status-chip { padding: 2px 6px; border: 1px solid var(--border); font-size: 13px; }
+.status-key { font-size: 11px; opacity: 0.6; }
+.status-value { font-weight: 700; }
+
+#cy { grid-column: 1; border: 1px solid var(--border); background: #fff; min-height: 420px; overflow: hidden; }
+
+.panel-splitter { grid-column: 2; cursor: ew-resize; touch-action: none; }
+
+.side { grid-column: 3; border: 1px solid var(--border); background: #fff; padding: 10px; overflow: auto; }
+
+.panel-section + .panel-section { margin-top: 8px; }
+.panel-section, .summary-details { border: 1px solid var(--border); overflow: hidden; }
+.summary-details { margin-bottom: 6px; }
+.summary-details:last-child { margin-bottom: 0; }
+
+.section-toggle, .summary-summary {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: none;
+  background: #f5f5f5;
+  color: var(--ink);
+  cursor: pointer;
+  padding: 8px 10px;
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 700;
+  list-style: none;
+}
+
+.summary-summary::-webkit-details-marker { display: none; }
+
+.section-chevron { transition: transform 0.15s ease; }
+.summary-summary::after { content: "▾"; transition: transform 0.15s ease; }
+
+.panel-section.is-collapsed .section-chevron,
+.summary-details:not([open]) .summary-summary::after { transform: rotate(-90deg); }
+
+.section-content, .summary-details-content { border-top: 1px solid var(--border); padding: 6px 10px; }
+.panel-section.is-collapsed .section-content { display: none; }
+
+.stat-row { padding: 4px 0; border-bottom: 1px solid var(--border); }
+.stat-row:last-child { border-bottom: none; }
+.k { display: block; font-size: 11px; opacity: 0.6; margin-bottom: 1px; }
+.v { font-size: 14px; font-weight: 700; word-break: break-word; }
+
+.cluster-legend { list-style: none; padding: 0; margin: 4px 0 0; display: grid; gap: 4px; }
+.cluster-legend-item { display: grid; grid-template-columns: 10px minmax(0, 1fr) auto; align-items: center; gap: 6px; font-size: 13px; }
+.cluster-swatch { width: 10px; height: 10px; border: 1px solid rgba(0,0,0,0.2); }
+.cluster-legend-count { font-size: 12px; opacity: 0.6; }
+
+.cluster-table { width: 100%; border-collapse: collapse; font-size: 12px; margin-top: 4px; }
+.cluster-table th, .cluster-table td { padding: 3px 6px; text-align: left; border-bottom: 1px solid var(--border); }
+.cluster-table th { font-size: 11px; opacity: 0.6; font-weight: 700; }
+.cluster-table td:first-child { font-weight: 600; }
+
+.tooltip { position: fixed; pointer-events: none; z-index: 999; padding: 6px 10px; border: 1px solid var(--border); background: #fff; font-size: 13px; opacity: 0; transition: opacity 0.1s ease; }
+.tooltip.show { opacity: 1; }
+
+.adv-hint { display: block; font-size: 10px; opacity: 0.5; font-weight: 400; margin-top: 1px; }
+
+/* Espaçamento extra no topo da lista do Awesomplete */
+.awesomplete > ul {
+  margin-top: 10px !important;
+}
+
+@media (max-width: 980px) {
+  .app { grid-template-columns: 1fr; grid-template-rows: auto 58vh auto; gap: 12px; }
+  #cy, .side { grid-column: 1; }
+  .panel-splitter { display: none; }
+  .status { width: 100%; margin-left: 0; }
+}

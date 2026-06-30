@@ -1,0 +1,1061 @@
+{
+  "metadata": {
+    "ego_id": 101903164,
+    "graph_type": "feats",
+    "node_count": 14,
+    "edge_count": 78,
+    "is_directed": false,
+    "clusters": [
+      {
+        "name": "Jogos & Franquias",
+        "color": "#1f77b4",
+        "node_count": 10
+      },
+      {
+        "name": "Plataformas & Mídia Digital",
+        "color": "#ffbb78",
+        "node_count": 12
+      },
+      {
+        "name": "Personalidades & Criadores de Conteúdo",
+        "color": "#d62728",
+        "node_count": 13
+      },
+      {
+        "name": "Ecossistema Microsoft",
+        "color": "#8c564b",
+        "node_count": 4
+      },
+      {
+        "name": "Big Tech & Hardware",
+        "color": "#f7b6d2",
+        "node_count": 5
+      },
+      {
+        "name": "Eventos & Convenções",
+        "color": "#bcbd22",
+        "node_count": 5
+      },
+      {
+        "name": "Termos Genéricos & Conceitos",
+        "color": "#9edae5",
+        "node_count": 1
+      }
+    ],
+    "statistics": {
+      "current": {
+        "overall": {
+          "node_count": 14,
+          "mean_degree": 11.142857142857142,
+          "median_degree": 12.0,
+          "density": 0.8571428571428571
+        },
+        "per_cluster": [
+          {
+            "name": "Big Tech & Hardware",
+            "node_count": 5,
+            "internal_density": 1.0
+          },
+          {
+            "name": "Ecossistema Microsoft",
+            "node_count": 4,
+            "internal_density": 1.0
+          },
+          {
+            "name": "Eventos & Convenções",
+            "node_count": 5,
+            "internal_density": 1.0
+          },
+          {
+            "name": "Jogos & Franquias",
+            "node_count": 10,
+            "internal_density": 1.0
+          },
+          {
+            "name": "Personalidades & Criadores de Conteúdo",
+            "node_count": 13,
+            "internal_density": 1.0
+          },
+          {
+            "name": "Plataformas & Mídia Digital",
+            "node_count": 12,
+            "internal_density": 1.0
+          },
+          {
+            "name": "Termos Genéricos & Conceitos",
+            "node_count": 1,
+            "internal_density": 0.0
+          }
+        ]
+      }
+    },
+    "advanced_statistics": null
+  },
+  "elements": {
+    "nodes": [
+      {
+        "data": {
+          "id": "101859065",
+          "label": "101859065",
+          "color": "#a67c5a",
+          "degree": 12,
+          "clusters": [
+            "Jogos & Franquias",
+            "Plataformas & Mídia Digital",
+            "Personalidades & Criadores de Conteúdo",
+            "Ecossistema Microsoft",
+            "Eventos & Convenções"
+          ],
+          "cluster_count": 5
+        },
+        "position": {
+          "x": -16.463383236073984,
+          "y": -478.9890651510707
+        }
+      },
+      {
+        "data": {
+          "id": "14683518",
+          "label": "14683518",
+          "color": "#eb7150",
+          "degree": 12,
+          "clusters": [
+            "Plataformas & Mídia Digital",
+            "Personalidades & Criadores de Conteúdo"
+          ],
+          "cluster_count": 2
+        },
+        "position": {
+          "x": 51.63276513013923,
+          "y": 66.93348991397929
+        }
+      },
+      {
+        "data": {
+          "id": "14876672",
+          "label": "14876672",
+          "color": "#bb8f75",
+          "degree": 12,
+          "clusters": [
+            "Jogos & Franquias",
+            "Plataformas & Mídia Digital",
+            "Personalidades & Criadores de Conteúdo",
+            "Big Tech & Hardware",
+            "Eventos & Convenções"
+          ],
+          "cluster_count": 5
+        },
+        "position": {
+          "x": -165.89104500789585,
+          "y": 406.13775000912005
+        }
+      },
+      {
+        "data": {
+          "id": "15999863",
+          "label": "15999863",
+          "color": "#d62728",
+          "degree": 12,
+          "clusters": [
+            "Personalidades & Criadores de Conteúdo"
+          ],
+          "cluster_count": 1
+        },
+        "position": {
+          "x": -438.2374227975856,
+          "y": -393.8692890101406
+        }
+      },
+      {
+        "data": {
+          "id": "176872879",
+          "label": "176872879",
+          "color": "#a67c5a",
+          "degree": 12,
+          "clusters": [
+            "Jogos & Franquias",
+            "Plataformas & Mídia Digital",
+            "Personalidades & Criadores de Conteúdo",
+            "Ecossistema Microsoft",
+            "Eventos & Convenções"
+          ],
+          "cluster_count": 5
+        },
+        "position": {
+          "x": -207.35572651604127,
+          "y": -498.46333748030514
+        }
+      },
+      {
+        "data": {
+          "id": "23152989",
+          "label": "23152989",
+          "color": "#b69c88",
+          "degree": 12,
+          "clusters": [
+            "Jogos & Franquias",
+            "Plataformas & Mídia Digital",
+            "Personalidades & Criadores de Conteúdo",
+            "Big Tech & Hardware",
+            "Eventos & Convenções",
+            "Termos Genéricos & Conceitos"
+          ],
+          "cluster_count": 6
+        },
+        "position": {
+          "x": -204.86242516423343,
+          "y": 768.2949742063284
+        }
+      },
+      {
+        "data": {
+          "id": "239257866",
+          "label": "239257866",
+          "color": "#a77371",
+          "degree": 12,
+          "clusters": [
+            "Jogos & Franquias",
+            "Plataformas & Mídia Digital",
+            "Personalidades & Criadores de Conteúdo"
+          ],
+          "cluster_count": 3
+        },
+        "position": {
+          "x": 386.5127487107724,
+          "y": -336.1714483279384
+        }
+      },
+      {
+        "data": {
+          "id": "263907906",
+          "label": "263907906",
+          "color": "#a77371",
+          "degree": 12,
+          "clusters": [
+            "Jogos & Franquias",
+            "Plataformas & Mídia Digital",
+            "Personalidades & Criadores de Conteúdo"
+          ],
+          "cluster_count": 3
+        },
+        "position": {
+          "x": -115.35508366950545,
+          "y": -899.9999999999999
+        }
+      },
+      {
+        "data": {
+          "id": "28144741",
+          "label": "28144741",
+          "color": "#a77371",
+          "degree": 12,
+          "clusters": [
+            "Jogos & Franquias",
+            "Plataformas & Mídia Digital",
+            "Personalidades & Criadores de Conteúdo"
+          ],
+          "cluster_count": 3
+        },
+        "position": {
+          "x": 195.47367442633987,
+          "y": 323.5397364223421
+        }
+      },
+      {
+        "data": {
+          "id": "293353298",
+          "label": "293353298",
+          "color": "#ef887b",
+          "degree": 12,
+          "clusters": [
+            "Plataformas & Mídia Digital",
+            "Personalidades & Criadores de Conteúdo",
+            "Big Tech & Hardware"
+          ],
+          "cluster_count": 3
+        },
+        "position": {
+          "x": -111.45219125719188,
+          "y": 19.906068070933074
+        }
+      },
+      {
+        "data": {
+          "id": "29514951",
+          "label": "29514951",
+          "color": "#b17b7d",
+          "degree": 12,
+          "clusters": [
+            "Jogos & Franquias",
+            "Plataformas & Mídia Digital",
+            "Personalidades & Criadores de Conteúdo",
+            "Ecossistema Microsoft",
+            "Big Tech & Hardware"
+          ],
+          "cluster_count": 5
+        },
+        "position": {
+          "x": -58.07692310252816,
+          "y": -190.49695570608887
+        }
+      },
+      {
+        "data": {
+          "id": "345707398",
+          "label": "345707398",
+          "color": "#cccccc",
+          "degree": 0,
+          "clusters": [],
+          "cluster_count": 0
+        },
+        "position": {
+          "x": 712.9038291146765,
+          "y": 899.1984029345484
+        }
+      },
+      {
+        "data": {
+          "id": "37876253",
+          "label": "37876253",
+          "color": "#bb8f75",
+          "degree": 12,
+          "clusters": [
+            "Jogos & Franquias",
+            "Plataformas & Mídia Digital",
+            "Personalidades & Criadores de Conteúdo",
+            "Big Tech & Hardware",
+            "Eventos & Convenções"
+          ],
+          "cluster_count": 5
+        },
+        "position": {
+          "x": 360.8372997767781,
+          "y": 95.27903053439093
+        }
+      },
+      {
+        "data": {
+          "id": "486930916",
+          "label": "486930916",
+          "color": "#a06c68",
+          "degree": 12,
+          "clusters": [
+            "Jogos & Franquias",
+            "Plataformas & Mídia Digital",
+            "Personalidades & Criadores de Conteúdo",
+            "Ecossistema Microsoft"
+          ],
+          "cluster_count": 4
+        },
+        "position": {
+          "x": -389.66611640764995,
+          "y": 218.70064358390135
+        }
+      }
+    ],
+    "edges": [
+      {
+        "data": {
+          "id": "e0",
+          "source": "101859065",
+          "target": "14683518",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e1",
+          "source": "101859065",
+          "target": "14876672",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e2",
+          "source": "101859065",
+          "target": "15999863",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e3",
+          "source": "101859065",
+          "target": "176872879",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e4",
+          "source": "101859065",
+          "target": "23152989",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e5",
+          "source": "101859065",
+          "target": "239257866",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e6",
+          "source": "101859065",
+          "target": "263907906",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e7",
+          "source": "101859065",
+          "target": "28144741",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e8",
+          "source": "101859065",
+          "target": "293353298",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e9",
+          "source": "101859065",
+          "target": "29514951",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e10",
+          "source": "101859065",
+          "target": "37876253",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e11",
+          "source": "101859065",
+          "target": "486930916",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e12",
+          "source": "14683518",
+          "target": "14876672",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e13",
+          "source": "14683518",
+          "target": "15999863",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e14",
+          "source": "14683518",
+          "target": "176872879",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e15",
+          "source": "14683518",
+          "target": "23152989",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e16",
+          "source": "14683518",
+          "target": "239257866",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e17",
+          "source": "14683518",
+          "target": "263907906",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e18",
+          "source": "14683518",
+          "target": "28144741",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e19",
+          "source": "14683518",
+          "target": "293353298",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e20",
+          "source": "14683518",
+          "target": "29514951",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e21",
+          "source": "14683518",
+          "target": "37876253",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e22",
+          "source": "14683518",
+          "target": "486930916",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e23",
+          "source": "14876672",
+          "target": "15999863",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e24",
+          "source": "14876672",
+          "target": "176872879",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e25",
+          "source": "14876672",
+          "target": "23152989",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e26",
+          "source": "14876672",
+          "target": "239257866",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e27",
+          "source": "14876672",
+          "target": "263907906",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e28",
+          "source": "14876672",
+          "target": "28144741",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e29",
+          "source": "14876672",
+          "target": "293353298",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e30",
+          "source": "14876672",
+          "target": "29514951",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e31",
+          "source": "14876672",
+          "target": "37876253",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e32",
+          "source": "14876672",
+          "target": "486930916",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e33",
+          "source": "15999863",
+          "target": "176872879",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e34",
+          "source": "15999863",
+          "target": "23152989",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e35",
+          "source": "15999863",
+          "target": "239257866",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e36",
+          "source": "15999863",
+          "target": "263907906",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e37",
+          "source": "15999863",
+          "target": "28144741",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e38",
+          "source": "15999863",
+          "target": "293353298",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e39",
+          "source": "15999863",
+          "target": "29514951",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e40",
+          "source": "15999863",
+          "target": "37876253",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e41",
+          "source": "15999863",
+          "target": "486930916",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e42",
+          "source": "176872879",
+          "target": "23152989",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e43",
+          "source": "176872879",
+          "target": "239257866",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e44",
+          "source": "176872879",
+          "target": "263907906",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e45",
+          "source": "176872879",
+          "target": "28144741",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e46",
+          "source": "176872879",
+          "target": "293353298",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e47",
+          "source": "176872879",
+          "target": "29514951",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e48",
+          "source": "176872879",
+          "target": "37876253",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e49",
+          "source": "176872879",
+          "target": "486930916",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e50",
+          "source": "23152989",
+          "target": "239257866",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e51",
+          "source": "23152989",
+          "target": "263907906",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e52",
+          "source": "23152989",
+          "target": "28144741",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e53",
+          "source": "23152989",
+          "target": "293353298",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e54",
+          "source": "23152989",
+          "target": "29514951",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e55",
+          "source": "23152989",
+          "target": "37876253",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e56",
+          "source": "23152989",
+          "target": "486930916",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e57",
+          "source": "239257866",
+          "target": "263907906",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e58",
+          "source": "239257866",
+          "target": "28144741",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e59",
+          "source": "239257866",
+          "target": "293353298",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e60",
+          "source": "239257866",
+          "target": "29514951",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e61",
+          "source": "239257866",
+          "target": "37876253",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e62",
+          "source": "239257866",
+          "target": "486930916",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e63",
+          "source": "263907906",
+          "target": "28144741",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e64",
+          "source": "263907906",
+          "target": "293353298",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e65",
+          "source": "263907906",
+          "target": "29514951",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e66",
+          "source": "263907906",
+          "target": "37876253",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e67",
+          "source": "263907906",
+          "target": "486930916",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e68",
+          "source": "28144741",
+          "target": "293353298",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e69",
+          "source": "28144741",
+          "target": "29514951",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e70",
+          "source": "28144741",
+          "target": "37876253",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e71",
+          "source": "28144741",
+          "target": "486930916",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e72",
+          "source": "293353298",
+          "target": "29514951",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e73",
+          "source": "293353298",
+          "target": "37876253",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e74",
+          "source": "293353298",
+          "target": "486930916",
+          "weight": -1,
+          "color": "#ff0000"
+        }
+      },
+      {
+        "data": {
+          "id": "e75",
+          "source": "29514951",
+          "target": "37876253",
+          "weight": 0,
+          "color": "#888888"
+        }
+      },
+      {
+        "data": {
+          "id": "e76",
+          "source": "29514951",
+          "target": "486930916",
+          "weight": 1,
+          "color": "#33cc33"
+        }
+      },
+      {
+        "data": {
+          "id": "e77",
+          "source": "37876253",
+          "target": "486930916",
+          "weight": 0,
+          "color": "#888888"
+        }
+      }
+    ]
+  }
+}

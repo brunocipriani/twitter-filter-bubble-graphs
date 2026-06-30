@@ -1,0 +1,237 @@
+{
+  "metadata": {
+    "ego_id": 33794839,
+    "graph_type": "feats",
+    "node_count": 15,
+    "edge_count": 0,
+    "is_directed": false,
+    "clusters": [],
+    "statistics": {
+      "current": {
+        "overall": {
+          "node_count": 15,
+          "mean_degree": 0.0,
+          "median_degree": 0.0,
+          "density": 0.0
+        },
+        "per_cluster": []
+      }
+    },
+    "advanced_statistics": null
+  },
+  "elements": {
+    "nodes": [
+      {
+        "data": {
+          "id": "104530784",
+          "label": "104530784",
+          "color": "#cccccc",
+          "degree": 0,
+          "clusters": [],
+          "cluster_count": 0
+        },
+        "position": {
+          "x": 254.87352887135756,
+          "y": -66.90745409849067
+        }
+      },
+      {
+        "data": {
+          "id": "14344319",
+          "label": "14344319",
+          "color": "#cccccc",
+          "degree": 0,
+          "clusters": [],
+          "cluster_count": 0
+        },
+        "position": {
+          "x": 28.132163964865125,
+          "y": -53.01276569237133
+        }
+      },
+      {
+        "data": {
+          "id": "14874480",
+          "label": "14874480",
+          "color": "#cccccc",
+          "degree": 0,
+          "clusters": [],
+          "cluster_count": 0
+        },
+        "position": {
+          "x": 204.72053841710039,
+          "y": 37.5965677556997
+        }
+      },
+      {
+        "data": {
+          "id": "17899109",
+          "label": "17899109",
+          "color": "#cccccc",
+          "degree": 0,
+          "clusters": [],
+          "cluster_count": 0
+        },
+        "position": {
+          "x": 338.5268563578352,
+          "y": 66.74654795041657
+        }
+      },
+      {
+        "data": {
+          "id": "21457289",
+          "label": "21457289",
+          "color": "#cccccc",
+          "degree": 0,
+          "clusters": [],
+          "cluster_count": 0
+        },
+        "position": {
+          "x": 102.19294507563943,
+          "y": -9.432445423991043
+        }
+      },
+      {
+        "data": {
+          "id": "24741685",
+          "label": "24741685",
+          "color": "#cccccc",
+          "degree": 0,
+          "clusters": [],
+          "cluster_count": 0
+        },
+        "position": {
+          "x": 83.04402643933722,
+          "y": 81.01773310455155
+        }
+      },
+      {
+        "data": {
+          "id": "33806624",
+          "label": "33806624",
+          "color": "#cccccc",
+          "degree": 0,
+          "clusters": [],
+          "cluster_count": 0
+        },
+        "position": {
+          "x": -637.8573628148243,
+          "y": -123.0223378539209
+        }
+      },
+      {
+        "data": {
+          "id": "33917789",
+          "label": "33917789",
+          "color": "#cccccc",
+          "degree": 0,
+          "clusters": [],
+          "cluster_count": 0
+        },
+        "position": {
+          "x": -139.95653440775638,
+          "y": -35.517379453471584
+        }
+      },
+      {
+        "data": {
+          "id": "39569182",
+          "label": "39569182",
+          "color": "#cccccc",
+          "degree": 0,
+          "clusters": [],
+          "cluster_count": 0
+        },
+        "position": {
+          "x": 11.007203441781465,
+          "y": -186.56323744128244
+        }
+      },
+      {
+        "data": {
+          "id": "50393960",
+          "label": "50393960",
+          "color": "#cccccc",
+          "degree": 0,
+          "clusters": [],
+          "cluster_count": 0
+        },
+        "position": {
+          "x": 181.93803793198845,
+          "y": 145.54752296251814
+        }
+      },
+      {
+        "data": {
+          "id": "64331621",
+          "label": "64331621",
+          "color": "#cccccc",
+          "degree": 0,
+          "clusters": [],
+          "cluster_count": 0
+        },
+        "position": {
+          "x": 123.15034195978686,
+          "y": 422.2452368775917
+        }
+      },
+      {
+        "data": {
+          "id": "816653",
+          "label": "816653",
+          "color": "#cccccc",
+          "degree": 0,
+          "clusters": [],
+          "cluster_count": 0
+        },
+        "position": {
+          "x": 139.30102612242598,
+          "y": -198.8493278656311
+        }
+      },
+      {
+        "data": {
+          "id": "83920824",
+          "label": "83920824",
+          "color": "#cccccc",
+          "degree": 0,
+          "clusters": [],
+          "cluster_count": 0
+        },
+        "position": {
+          "x": -899.9999999999999,
+          "y": -170.13666117268028
+        }
+      },
+      {
+        "data": {
+          "id": "9460682",
+          "label": "9460682",
+          "color": "#cccccc",
+          "degree": 0,
+          "clusters": [],
+          "cluster_count": 0
+        },
+        "position": {
+          "x": 49.90471269582684,
+          "y": 189.78264369272426
+        }
+      },
+      {
+        "data": {
+          "id": "972651",
+          "label": "972651",
+          "color": "#cccccc",
+          "degree": 0,
+          "clusters": [],
+          "cluster_count": 0
+        },
+        "position": {
+          "x": 161.02251594463593,
+          "y": -99.49464334166275
+        }
+      }
+    ],
+    "edges": []
+  }
+}

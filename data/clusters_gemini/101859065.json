@@ -1,0 +1,69 @@
+{
+  "Empresas/Plataformas de Tecnologia": [
+    "microsoft",
+    "youtube",
+    "kickstarter",
+    "ncsoftgame",
+    "treyarch"
+  ],
+  "Jogos/Franquias": [
+    "battlefield",
+    "bf3",
+    "blackops2",
+    "gameofthrones",
+    "ghostreconline",
+    "guildwars2",
+    "minecraft",
+    "mw3",
+    "prototype",
+    "prototype2",
+    "zombie101"
+  ],
+  "Personalidades/Criadores de Conteúdo": [
+    "adamkovic",
+    "brucegreene",
+    "captainsparklez",
+    "davidvonderhaar",
+    "djkeemstar",
+    "drdisrespect",
+    "etalyx",
+    "hastr0",
+    "ihascupquake",
+    "iijeriichoii",
+    "khailanonymous",
+    "matthdgamer",
+    "mr_sark",
+    "onlyusemeblade",
+    "optic_nadeshot",
+    "optich3cz",
+    "prosyndicate",
+    "seananner",
+    "tmartn",
+    "woodysgamertag",
+    "xjawz",
+    "z0mgitshutch"
+  ],
+  "Mídia/Canais de Conteúdo Gaming": [
+    "machinima_com",
+    "machinimarealm",
+    "machinimasport",
+    "networka"
+  ],
+  "Eventos de Gaming": [
+    "official_pax",
+    "paxeast"
+  ],
+  "Termos de Gaming": [
+    "fragcup3",
+    "mcom_respawn",
+    "mmorpg",
+    "tbnrfrag"
+  ],
+  "Filmes/Séries": [
+    "gijoemovie"
+  ],
+  "Organizações/Equipes de Esports": [
+    "opticgame",
+    "umg"
+  ]
+}
